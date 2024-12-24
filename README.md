@@ -18,7 +18,7 @@
         </ul>
       <h2>Goals</h2>
       <ul>
-        <li>Backend Development Position</li>
+        <li>Obtain the skills necessary to break into a working tech role.</li>
       </ul>
     </section>
   </body>
