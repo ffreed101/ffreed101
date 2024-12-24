@@ -12,12 +12,13 @@
       </p>
       <h2>Working on...</h2>
         <ul>
-          <li>Contributing to Open Source Projects</li>
-          <li>Better Inventory System for the company I work for</li>
+          <li>Preparing for a second semester in college</li>
+          <li>Learning SQL</li>
+          <li>Getting better at python, OOP lately</li>
         </ul>
       <h2>Goals</h2>
       <ul>
-        <li>Currently working on exploring my options</li>
+        <li>Backend Development Position</li>
       </ul>
     </section>
   </body>
