@@ -8,7 +8,7 @@
     <section>
       <h2>About Me</h2>
       <p>
-        My name is Falon Freed. I am a 19 year-old student and hobbyist for anything tech related. I've always been drawn to tech since I was a little boy, and that love has only flourished as I am now working on making my way into the industry. If you feel the need to reach out to me for any reason, please do so!
+        My name is Falon Freed. I am a 19 year-old student and Python developer. I've been focusing on backend development and databases, because creating CLI programs feels foundational to everything else, being it is what I am most comfortable in. I plan to later extend this knowledge into making visualized desktop apps or full-stack apps. If you feel the need to reach out to me for any reason, please do so!
       </p>
       <h2>Working on...</h2>
         <ul>
