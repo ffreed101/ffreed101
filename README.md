@@ -13,7 +13,8 @@
       <h2>Working on...</h2>
         <ul>
           <li>Preparing for a second semester in college</li>
-          <li>Learning SQL</li>
+          <li>Ingot: Budget App</li>
+          <li>Learning SQL & SQLAlchemy</li>
           <li>Getting better at python, OOP lately</li>
         </ul>
       <h2>Goals</h2>
