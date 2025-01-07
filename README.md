@@ -3,23 +3,22 @@
   <body>
     <header>
       <h1>Falon Freed</h1>
-      <em>Computer Information Systems Student/Aspiring Developer</em>
+      <em>Student/Aspiring Computer Engineer</em>
     </header>
     <section>
       <h2>About Me</h2>
       <p>
-        My name is Falon Freed. I am a 19 year-old student and Python developer. I've been focusing on backend development and databases, because creating CLI programs feels foundational to everything else, being it is what I am most comfortable in. I plan to later extend this knowledge into making visualized desktop apps or full-stack apps. If you feel the need to reach out to me for any reason, please do so!
+        My name is Falon Freed. I am a 20 year-old student and developer. I've been focusing on backend development and databases, because creating CLI programs feels foundational to everything else, being it is what I am most comfortable in. I plan to later extend this knowledge into hardware and research emerging technologies that fascinate me. If you feel the need to reach out to me for any reason, please do so!
       </p>
       <h2>Working on...</h2>
         <ul>
-          <li>Preparing for a second semester in college</li>
-          <li>Ingot: Budget App</li>
-          <li>Learning SQL & SQLAlchemy</li>
-          <li>Getting better at python, OOP lately</li>
+          <li>Working with different operating systems</li>
+          <li>Programming(Learning: C++, C# | Practicing: Python, SQL)</li>
         </ul>
       <h2>Goals</h2>
       <ul>
         <li>Obtain the skills necessary to break into a working tech role.</li>
+        <li>Complete my Associates in General Sciences</li>
       </ul>
     </section>
   </body>
